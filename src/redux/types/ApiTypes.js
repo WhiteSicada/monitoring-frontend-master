@@ -1,0 +1,16 @@
+// api Section
+export const ADD_API = "ADD_API";
+export const GET_APIs = "GET_APIs";
+export const GET_API = "GET_API";
+export const UPDATE_API = "UPDATE_API";
+export const DELETE_API = "DELETE_API";
+
+// context Section
+export const ADD_CONTEXTS_TO_API = "ADD_CONTEXTS_TO_API";
+export const REMOVE_CONTEXTS_FROM_API = "REMOVE_CONTEXTS_FROM_API";
+export const UPDATE_CONTEXTS_OF_API = "UPDATE_CONTEXTS_OF_API";
+
+// endpoint Section
+export const ADD_ENDPOINT_TO_CONTEXT = "ADD_ENDPOINT_TO_CONTEXT";
+export const REMOVE_ENDPOINT_FROM_CONTEXT = "REMOVE_ENDPOINT_FROM_CONTEXT";
+export const UPDATE_ENDPOINTS_OF_CONTEXT = "UPDATE_ENDPOINTS_OF_CONTEXT";
